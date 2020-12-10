@@ -71,7 +71,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -281,8 +280,6 @@ Keras-Preprocessing  1.1.0
    ```sh
    git clone https://github.com/Prasanna28Devadiga/Stock-Trading-Bot.git
    ```
-
-<!-- USAGE EXAMPLES -->
 <!-- ROADMAP -->
 ## Roadmap
 
