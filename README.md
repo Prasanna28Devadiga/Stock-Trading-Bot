@@ -85,9 +85,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
+Beginner-friendly approach at building a single stock trading bot using Reinforcement Learning. Originally intended as a project for a course I took at college, I do plan to make improvements (better algorithms!). Have hardcoded the values for the window size(32) and number of episodes(5000). Have tried training the model on a few equities for a 10-15 episodes and ended up with ~5% profit (could just be noise :smile:). I believe it needs to be trained for atleast a couple hundred episodes before we can see it perform well consistently. 
+(P.S. make sure the input data file follows the format as mentioned below)
 
 ### Built With
 
@@ -272,28 +271,18 @@ Keras-Applications   1.0.8
 Keras-Preprocessing  1.1.0     
 [root@host conf]#
   ```
-7. 
-
-11. Clone the Stock-Trading-Bot
+7. Preparing the Data <br>
+    Download the stock data you plan on training the agent from [Yahoo Finance](https://in.finance.yahoo.com/)<br>  
+    Drop the Date column (or shift it to another location)<br>
+    A simple moving point average can be used (period = last 5/7 days) to help remove noise from the data<br>
+    The input file must be in a csv format<br>
+    
+8. Clone the Stock-Trading-Bot
    ```sh
    git clone https://github.com/Prasanna28Devadiga/Stock-Trading-Bot.git
    ```
-12. Install NPM packages
-   ```sh
-   npm install
-   ```
-
-
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -324,7 +313,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - prasanna2019@iiitkottayam.ac.in
+Your Name - [@twitter_handle](https://twitter.com/https://twitter.com/Prasanna280) - prasanna2019@iiitkottayam.ac.in
 
 Project Link: [https://github.com/Prasanna28Devadiga/Stock-Trading-Bot](https://github.com/Prasanna28Devadiga/Stock-Trading-Bot)
 
