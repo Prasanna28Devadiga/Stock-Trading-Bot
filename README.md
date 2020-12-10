@@ -272,7 +272,7 @@ Keras-Preprocessing  1.1.0
 [root@host conf]#
   ```
 7. Preparing the Data <br>
-    Download the stock data you plan on training the agent from [Yahoo Finance](https://in.finance.yahoo.com/) 
+    Download the stock data you plan on training the agent from [Yahoo Finance](https://in.finance.yahoo.com/). 
     Drop the Date column (or shift it to another location)<br>
     A simple moving point average can be used (period = last 5/7 days) to help remove noise from the data<br>
     The input file must be in a csv format<br>
