@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** that would make this better, please fork the Stock-Trading-Bot and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -36,7 +36,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">upgraded-spork</h3>
+  <h3 align="center">Upgraded-Spork</h3>
 
   <p align="center">
     Agent that used Deep-Q Learning and Experienced replay to make trades(buy/sell/hold) on single stocks
@@ -115,7 +115,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo
+1. Clone the Stock-Trading-Bot
    ```sh
    git clone https://github.com/Prasanna28Devadiga/Stock-Trading-Bot.git
    ```
@@ -184,15 +184,15 @@ Project Link: [https://github.com/Prasanna28Devadiga/Stock-Trading-Bot](https://
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/Prasanna28Devadiga/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/Prasanna28Devadiga/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/Prasanna28Devadiga/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/Prasanna28Devadiga/repo/issues
-[license-shield]: https://img.shields.io/github/license/Prasanna28Devadiga/repo.svg?style=for-the-badge
-[license-url]: https://github.com/Prasanna28Devadiga/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Prasanna28Devadiga/Stock-Trading-Bot.svg?style=for-the-badge
+[contributors-url]: https://github.com/Prasanna28Devadiga/Stock-Trading-Bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Prasanna28Devadiga/Stock-Trading-Bot.svg?style=for-the-badge
+[forks-url]: https://github.com/Prasanna28Devadiga/Stock-Trading-Bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Prasanna28Devadiga/Stock-Trading-Bot.svg?style=for-the-badge
+[stars-url]: https://github.com/Prasanna28Devadiga/Stock-Trading-Bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Prasanna28Devadiga/Stock-Trading-Bot.svg?style=for-the-badge
+[issues-url]: https://github.com/Prasanna28Devadiga/Stock-Trading-Bot/issues
+[license-shield]: https://img.shields.io/github/license/Prasanna28Devadiga/Stock-Trading-Bot.svg?style=for-the-badge
+[license-url]: https://github.com/Prasanna28Devadiga/Stock-Trading-Bot/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Prasanna28Devadiga
+[linkedin-url]: https://www.linkedin.com/in/prasanna-devadiga/
