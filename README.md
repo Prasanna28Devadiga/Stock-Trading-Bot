@@ -77,8 +77,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Beginner-friendly approach at building a single stock trading bot using Reinforcement Learning. Originally intended as a project for a course I took at college, I do plan to make improvements (better algorithms!). Have hardcoded the values for the window size(32) and number of episodes(5000). Have tried training the model on a few equities for a 10-15 episodes and ended up with ~5% profit (could just be noise :smile:). I believe it needs to be trained for atleast a couple hundred episodes before we can see it perform well consistently. 
-(P.S. make sure the input data file follows the format as mentioned below)
+A reinforcement learning based stock-trading agent built using Deep-Q Learning and Experienced Replay.
+
 
 ### Built With
 
