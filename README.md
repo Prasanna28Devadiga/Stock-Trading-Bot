@@ -31,15 +31,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/Prasanna28Devadiga/Stock-Trading-Bot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Upgraded-Spork</h3>
 
   <p align="center">
-    Agent that used Deep-Q Learning and Experienced replay to make trades(buy/sell/hold) on single stocks
+    Agent that uses Deep-Q Learning and Experienced replay to make trades(buy/sell/hold) on single stocks
     <br />
     <a href="https://github.com/Prasanna28Devadiga/Stock-Trading-Bot"><strong>Explore the docs »</strong></a>
     <br />
