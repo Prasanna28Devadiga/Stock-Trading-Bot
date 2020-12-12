@@ -37,9 +37,6 @@
   <p align="center">
     Agent that uses Deep-Q Learning and Experienced replay to make trades(buy/sell/hold) on single stocks
     <br />
-    <a href="https://github.com/Prasanna28Devadiga/Stock-Trading-Bot"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="https://github.com/Prasanna28Devadiga/Stock-Trading-Bot">View Demo</a>
     ·
     <a href="https://github.com/Prasanna28Devadiga/Stock-Trading-Bot/issues">Report Bug</a>
