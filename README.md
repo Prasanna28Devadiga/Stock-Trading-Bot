@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A reinforcement learning based stock-trading agent built using Deep-Q Learning and Experienced Replay.
+A reinforcement learning based stock-trading bot built using Deep-Q Learning and Experienced Replay.
 
 
 ### Built With
