@@ -313,7 +313,7 @@ Project Link: [https://github.com/Prasanna28Devadiga/Stock-Trading-Bot](https://
 ## Acknowledgements
 
 * Amazing tutorial on setting up the required environment for this project by [liquidweb.com](https://www.liquidweb.com/kb/how-to-install-keras/#:~:text=There%20are%20two%20ways%20of,that%20is%20the%20one%20recommended.&text=Again%2C%20we%20check%20the%20output%20of%20the%20version%20installed.)
-* Tutorial to build the bot from [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2020/10/reinforcement-learning-stock-price-prediction/)
+* Tutorial to build the bot from [Q-Trader](https://github.com/edwardhdlu/q-trader)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
